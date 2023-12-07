@@ -18,6 +18,7 @@ void DrawMain() {
     for (int x = -250; x < -50; x += 10) {
         Paint(x + 5, 0, kColorDarkBlue, kColorBlue);
     }
+
     for (int x = 50; x < 250; x += 10) {
         Paint(x + 5, 0, kColorDarkBlue, kColorBlue);
     }
